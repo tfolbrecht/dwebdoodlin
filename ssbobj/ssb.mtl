@@ -1,0 +1,11 @@
+# Exported from 3D Builder
+
+newmtl Translucent_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd hermies.png
+
+newmtl BaseColor_0
+Kd 0.737255 0.737255 0.737255
